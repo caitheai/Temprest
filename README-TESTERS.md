@@ -1,3 +1,0 @@
-# THIS IS FOR TESTERS
-
-uhhh idk
