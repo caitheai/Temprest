@@ -14,7 +14,7 @@ who made them specifically for this project
 and are fine with their use
 
 All Music was made by friends exclusively for this project as well
-All sound effects are free and open source and were found online
+All sound effects are free and open source and were found online.
 
 
 -----------------------------------------------------------
