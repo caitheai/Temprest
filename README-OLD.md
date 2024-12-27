@@ -42,4 +42,4 @@ Enter to interact
 How to Play:
 Control the character and move to the end of the platform,
 get close to the enemy to initiate a battle, then
-either win or die!!
+either win or die!!!
